@@ -1,0 +1,299 @@
+
+Documento 0
+           term         indice            tdf            idf          tfidf
+
+           This              0              1        0.09691        0.09691
+            dry              3              1        0.69897        0.69897
+           wine              4              2       0.522879        1.04576
+          spicy              6              1              1              1
+          tight              9              1              1              1
+           taut             10              1              1              1
+        texture             11              1              1              1
+       strongly             13              1              1              1
+        mineral             14              1              1              1
+      character             15              1        0.69897        0.69897
+        layered             16              1              1              1
+         citrus             18              1              1              1
+           well             20              1              1              1
+         pepper             22              1       0.522879       0.522879
+            Its             23              2        0.69897        1.39794
+           food             25              1              1              1
+         almost             29              1              1              1
+          crisp             30              1              1              1
+     aftertaste             31              1              1              1
+Documento 1
+           term         indice            tdf            idf          tfidf
+
+       Slightly              0              1        0.69897        0.69897
+        reduced              1              1              1              1
+           wine              3              1       0.522879       0.522879
+         offers              4              1              1              1
+         chalky              6              1              1              1
+         tannic              7              1        0.69897        0.69897
+       backbone              8              1              1              1
+      otherwise             11              1              1              1
+          juicy             12              1        0.69897        0.69897
+      explosion             13              1              1              1
+           rich             15              1              1              1
+          black             16              1        0.69897        0.69897
+         cherry             17              1        0.69897        0.69897
+          whole             19              1              1              1
+       accented             20              1              1              1
+     throughout             21              1              1              1
+           firm             23              1              1              1
+            oak             24              1        0.39794        0.39794
+          cigar             26              1        0.69897        0.69897
+            box             27              1        0.69897        0.69897
+Documento 2
+           term         indice            tdf            idf          tfidf
+
+           This              0              1        0.09691        0.09691
+      dominated              2              1              1              1
+            oak              4              1        0.39794        0.39794
+      oakdriven              6              1        0.69897        0.69897
+         aromas              7              1       0.221849       0.221849
+        include              9              1              1              1
+        roasted             10              1              1              1
+         coffee             11              1              1              1
+           bean             12              1              1              1
+       espresso             13              1              1              1
+        coconut             14              1              1              1
+        vanilla             16              1        0.69897        0.69897
+          carry             18              1        0.69897        0.69897
+         palate             22              1        0.30103        0.30103
+       together             23              1              1              1
+           plum             25              1       0.522879       0.522879
+      chocolate             27              1              1              1
+     Astringent             28              1              1              1
+         drying             29              1              1              1
+        tannins             30              1              1              1
+           give             31              1              1              1
+         rather             34              1              1              1
+         abrupt             35              1              1              1
+         finish             36              1       0.522879       0.522879
+Documento 3
+           term         indice            tdf            idf          tfidf
+
+       Building              0              1              1              1
+            150              2              1              1              1
+          years              3              1              1              1
+            six              5              1              1              1
+    generations              6              1              1              1
+     winemaking              8              1              1              1
+      tradition              9              1              1              1
+         winery             11              1              1              1
+         trends             12              1              1              1
+         toward             13              1              1              1
+         leaner             15              1              1              1
+          style             16              1              1              1
+        classic             19              1              1              1
+     California             20              1              1              1
+    buttercream             21              1              1              1
+          aroma             22              1              1              1
+            cut             23              1              1              1
+           tart             25              1        0.69897        0.69897
+          green             26              1        0.69897        0.69897
+          apple             27              1        0.69897        0.69897
+             In             28              1        0.30103        0.30103
+           good             30              1        0.69897        0.69897
+       everyday             31              1              1              1
+        sipping             32              1              1              1
+           wine             33              1       0.522879       0.522879
+        flavors             34              1       0.522879       0.522879
+          range             36              1              1              1
+           pear             38              1              1              1
+         barely             40              1              1              1
+           ripe             41              1        0.69897        0.69897
+      pineapple             42              1              1              1
+          prove             43              1              1              1
+   approachable             44              1        0.69897        0.69897
+    distinctive             47              1              1              1
+Documento 4
+           term         indice            tdf            idf          tfidf
+
+          Zesty              0              1              1              1
+         orange              1              1              1              1
+          peels              2              1              1              1
+          apple              4              1        0.69897        0.69897
+          notes              5              1       0.522879       0.522879
+         abound              6              1              1              1
+      sprightly              9              1              1              1
+   mineraltoned             10              1              1              1
+       Riesling             11              1              1              1
+            Off             12              1              1              1
+            dry             13              1        0.69897        0.69897
+         palate             16              1        0.30103        0.30103
+            yet             17              1              1              1
+           racy             18              1              1              1
+           lean             20              1              1              1
+     refreshing             23              1              1              1
+           easy             24              1              1              1
+        quaffer             25              1              1              1
+           wide             27              1              1              1
+         appeal             28              1              1              1
+Documento 5
+           term         indice            tdf            idf          tfidf
+
+          Baked              0              1              1              1
+           plum              1              2       0.522879        1.04576
+       molasses              2              1              1              1
+       balsamic              3              1              1              1
+        vinegar              4              1              1              1
+         cheesy              6              1              1              1
+            oak              7              1        0.39794        0.39794
+         aromas              8              1       0.221849       0.221849
+           feed              9              1              1              1
+         palate             12              1        0.30103        0.30103
+          thats             13              1              1              1
+         braced             14              1              1              1
+           bolt             17              1              1              1
+        acidity             19              1              1              1
+              A             20              3        0.09691        0.29073
+        compact             21              1              1              1
+            set             22              1              1              1
+          saucy             24              1              1              1
+       redberry             25              1              1              1
+        flavors             28              1       0.522879       0.522879
+       features             29              1              1              1
+        tobacco             30              1        0.69897        0.69897
+        peppery             32              1              1              1
+        accents             33              1              1              1
+         finish             36              1       0.522879       0.522879
+         mildly             38              1              1              1
+          green             39              1        0.69897        0.69897
+         flavor             41              1        0.69897        0.69897
+    respectable             43              1              1              1
+         weight             44              1              1              1
+        balance             46              1              1              1
+Documento 6
+           term         indice            tdf            idf          tfidf
+
+            Raw              0              1              1              1
+    blackcherry              1              1              1              1
+         aromas              2              1       0.221849       0.221849
+         direct              4              1              1              1
+         simple              6              1              1              1
+           good              8              1        0.69897        0.69897
+           This              9              1        0.09691        0.09691
+          juicy             12              1        0.69897        0.69897
+           feel             13              1              1              1
+       thickens             15              1              1              1
+           time             17              1              1              1
+            oak             19              2        0.39794        0.79588
+      character             20              1        0.69897        0.69897
+        extract             22              1              1              1
+       becoming             23              1              1              1
+       apparent             25              1              1              1
+              A             26              2        0.09691        0.19382
+         flavor             27              1        0.69897        0.69897
+        profile             28              1              1              1
+         driven             29              1              1              1
+      darkberry             31              1              1              1
+         fruits             32              1              1              1
+     smoldering             34              1              1              1
+       finishes             36              1              1              1
+          meaty             37              1              1              1
+            hot             39              1              1              1
+Documento 7
+           term         indice            tdf            idf          tfidf
+
+     Desiccated              0              1              1              1
+     blackberry              1              2              1              2
+        leather              2              1              1              1
+        charred              3              1              1              1
+           wood              4              1              1              1
+           mint              6              1              1              1
+         aromas              7              2       0.221849       0.443697
+          carry              8              1        0.69897        0.69897
+           nose             10              1        0.69897        0.69897
+     fullbodied             13              1              1              1
+         tannic             14              1        0.69897        0.69897
+        heavily             15              1              1              1
+          oaked             16              1              1              1
+          Tinto             17              1              1              1
+           Fino             18              1              1              1
+        Flavors             19              1       0.522879       0.522879
+          clove             21              1              1              1
+      woodspice             23              1              1              1
+            sit             24              1              1              1
+            top             26              1              1              1
+          fruit             29              1        0.69897        0.69897
+        hickory             31              1              1              1
+       forceful             34              1              1              1
+       oakbased             35              1              1              1
+           rise             37              1              1              1
+       dominate             40              1              1              1
+         finish             42              1       0.522879       0.522879
+Documento 8
+           term         indice            tdf            idf          tfidf
+
+            Red              0              1        0.69897        0.69897
+          fruit              1              1        0.69897        0.69897
+         aromas              2              1       0.221849       0.221849
+        pervade              3              1              1              1
+           nose              6              1        0.69897        0.69897
+          cigar              8              1        0.69897        0.69897
+            box              9              1        0.69897        0.69897
+        menthol             11              1              1              1
+          notes             12              2       0.522879        1.04576
+         riding             13              1              1              1
+           back             16              1              1              1
+            The             17              3        0.09691        0.29073
+         palate             18              1        0.30103        0.30103
+       slightly             20              1        0.69897        0.69897
+     restrained             21              1              1              1
+          entry             23              1              1              1
+          opens             25              1              1              1
+          riper             28              1              1              1
+         cherry             31              1        0.69897        0.69897
+           plum             33              1       0.522879       0.522879
+        specked             34              1              1              1
+        crushed             36              1              1              1
+         pepper             37              1       0.522879       0.522879
+           This             38              1        0.09691        0.09691
+          blend             39              1              1              1
+         Merlot             41              1              1              1
+       Cabernet             42              2              1              2
+      Sauvignon             43              1              1              1
+          Franc             46              1              1              1
+   approachable             48              1        0.69897        0.69897
+          ready             51              1              1              1
+        enjoyed             54              1              1              1
+Documento 9
+           term         indice            tdf            idf          tfidf
+
+           Ripe              0              1        0.69897        0.69897
+         aromas              1              1       0.221849       0.221849
+           dark              3              1              1              1
+        berries              4              1              1              1
+         mingle              5              1              1              1
+          ample              7              1              1              1
+          notes              8              2       0.522879        1.04576
+          black             10              1        0.69897        0.69897
+         pepper             11              1       0.522879       0.522879
+        toasted             12              1              1              1
+        vanilla             13              1        0.69897        0.69897
+          dusty             15              1              1              1
+        tobacco             16              1        0.69897        0.69897
+            The             17              1        0.09691        0.09691
+         palate             18              1        0.30103        0.30103
+      oakdriven             20              1        0.69897        0.69897
+         nature             22              1              1              1
+           tart             26              1        0.69897        0.69897
+            red             27              1        0.69897        0.69897
+        currant             28              1              1              1
+          shine             29              1              1              1
+       offering             31              1              1              1
+            bit             33              1              1              1
+         levity             35              1              1              1
+             documento 0  documento 1  documento 2  documento 3  documento 4  documento 5  documento 6  documento 7  documento 8  documento 9  
+documento 0            1    0.0894427    0.0408248    0.0685994    0.0447214            0    0.0707107            0    0.0589768      0.03849  
+documento 1    0.0894427            1    0.0456435    0.0383483            0    0.0345033     0.118585    0.0389249    0.0989071    0.0430331  
+documento 2    0.0408248    0.0456435            1            0    0.0456435     0.188982     0.144338     0.142134     0.120386     0.157135  
+documento 3    0.0685994    0.0383483            0            1    0.0383483    0.0529256     0.030317            0    0.0252861    0.0330049  
+documento 4    0.0447214            0    0.0456435    0.0383483            1    0.0345033            0            0    0.0989071     0.129099  
+documento 5            0    0.0345033     0.188982    0.0529256    0.0345033            1     0.272772    0.0805823    0.0910032    0.0890871  
+documento 6    0.0707107     0.118585     0.144338     0.030317            0     0.272772            1    0.0615457    0.0521286    0.0340207  
+documento 7            0    0.0389249     0.142134            0            0    0.0805823    0.0615457            1     0.102665    0.0670025  
+documento 8    0.0589768    0.0989071     0.120386    0.0252861    0.0989071    0.0910032    0.0521286     0.102665            1     0.283752  
+documento 9      0.03849    0.0430331     0.157135    0.0330049     0.129099    0.0890871    0.0340207    0.0670025     0.283752            1   
